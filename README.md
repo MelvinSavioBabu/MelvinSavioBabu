@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MelvinSavioBabu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Automation
+- 👋 Hi, I’m @MelvinSavioBabu.
+- 👀 I’m interested in Robotics & Automation.
+- 🌱 I’m currently learning Mechatronics Engineering.
+- 💞️ I’m looking to collaborate on Cybersecurity/Automation.
 - 📫 How to reach me melvinsaviobabu@gmail.com
 
 <!---
